@@ -1,0 +1,39 @@
+.info {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.iconContainer {
+    width: 32px;
+    height: 32px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.yellowDark {
+    composes: iconContainer;
+    background: var(--yellow-900);
+}
+
+.yellow {
+    composes: iconContainer;
+    background: var(--yellow-500);
+}
+
+.gray {
+    composes: iconContainer;
+    background: var(--gray-700);
+}
+
+.purple {
+    composes: iconContainer;
+    background: var(--purple-500);
+}
+
+.default {
+    composes: iconContainer;
+    background: var(--gray-700);
+}

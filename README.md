@@ -1,0 +1,14 @@
+# Projeto ReactJS - Coffee Delivery
+- Desafio elaborado para trilha ReactJS do Ignite da Rockeseat
+- Consiste em uma aplicação para gerenciar um carrinho de compras de uma cafeteria fictícia com listagem de produtos, adição de produtos ao carrinho, formulário, entre outros
+- Aplicação das seguintes tecnolias e conceitos:
+    - ReactJS
+    - Vite
+    - TypeScript
+    - Estados
+    - ContextAPI
+    - LocalStorage
+    - Propriedades
+    - Listas e chaves no ReactJS
+    - Componentização
+- Layout da aplicação foi previamente fornecido

@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+}
+
+.cart {
+    background: var(--yellow-100);
+    border-radius: 6px;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+}
+
+.counter {
+    background: var(--yellow-900);
+    width: 1.25rem;
+    height: 1.25rem;
+    border-radius: 100%;
+    position: relative;
+    top: -0.5rem;
+    left: -0.73rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.counter span {
+    color: var(--white);
+    font-size: 0.875rem;
+    list-style: 130%;
+    font-weight: bold;
+}
